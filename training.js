@@ -47,3 +47,4 @@ console.log("The result is " + result);
 
 //some changes
 //New branch
+//Pull request example
